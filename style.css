@@ -1,0 +1,74 @@
+body {
+    text-align: justify-all;
+    margin: 60px;
+    background-color: skyblue;
+    font-size: 21px;
+    float: center;
+}
+
+#school; {
+    height: 800px;
+    margin: 20px;
+    font-size: 50px;
+    opacity: 0.83;
+    width: 100%;
+    height: 100%;
+}
+
+.image {
+    height: 250px;
+    margin: 20px;
+    font-size: 50px;
+    opacity: 0.83;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+.lists:hover {
+    background-color: cyan;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.parallax-inner {
+    text-align: center;
+
+}
+
+.lists {
+    color: indianred;
+    font-family: fantasy;
+    font-size: 15px;
+    display: inline;
+    margin-left: 69px;
+    padding-left: 60px;
+    padding-right: 24px;
+}
+
+.menu {
+    list-style: none;
+    background-color: white;
+    position: fixed;
+    cursor: pointer;
+    z-index: 10;
+    margin-top: 0px;
+    top: 0px;
+    width: 100%;
+}
+
+html {
+   scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+.Gmail{
+    font-family: sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
